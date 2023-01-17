@@ -1,10 +1,5 @@
-﻿/************************************************
-*
-*   Practice creating and using classes in C#
-*
-*************************************************/
-
-// Make a new Job class
+﻿
+// Make a driver class
 public class Program{
 
     // Main() function to serve as entry point for dotnet
