@@ -1,5 +1,5 @@
 # Csh_classes
-Practice creating and using public class structures
+Practice creating and using public class structures in C#
 
 ## Two classes will be created. Each with their own attributes and methods
 1. A Job class with:
