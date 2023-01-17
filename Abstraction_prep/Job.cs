@@ -1,3 +1,10 @@
+/************************************************
+*
+*   Practice creating and using classes in C#
+*
+*************************************************/
+
+// Create a public class called Job
 public class Job{
     // 4 attributes
     public string comp_name;
