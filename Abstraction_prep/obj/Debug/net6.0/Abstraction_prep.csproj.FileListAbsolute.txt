@@ -1,0 +1,15 @@
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\bin\Debug\net6.0\Abstraction_prep.exe
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\bin\Debug\net6.0\Abstraction_prep.deps.json
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\bin\Debug\net6.0\Abstraction_prep.runtimeconfig.json
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\bin\Debug\net6.0\Abstraction_prep.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\bin\Debug\net6.0\ref\Abstraction_prep.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\bin\Debug\net6.0\Abstraction_prep.pdb
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\obj\Debug\net6.0\Abstraction_prep.csproj.AssemblyReference.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\obj\Debug\net6.0\Abstraction_prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\obj\Debug\net6.0\Abstraction_prep.AssemblyInfoInputs.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\obj\Debug\net6.0\Abstraction_prep.AssemblyInfo.cs
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\obj\Debug\net6.0\Abstraction_prep.csproj.CoreCompileInputs.cache
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\obj\Debug\net6.0\Abstraction_prep.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\obj\Debug\net6.0\ref\Abstraction_prep.dll
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\obj\Debug\net6.0\Abstraction_prep.pdb
+C:\Users\lengu\Desktop\School\CSE 210 Programming with classes (c#)\Csh_classes\Abstraction_prep\obj\Debug\net6.0\Abstraction_prep.genruntimeconfig.cache
